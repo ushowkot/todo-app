@@ -67,7 +67,8 @@
 			</tbody>
 		</table>
 		<br><br>
-		  <center>  Development by Showkot Usman</center>  
+		<center>  Todo List project </center>  
+		  <center>  Development by Showkot Usman @2019</center>  
 	</div>
 	
 	 
